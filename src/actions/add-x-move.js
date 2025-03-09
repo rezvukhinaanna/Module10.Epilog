@@ -1,0 +1,1 @@
+export const ADD_X_MOVE = (index) => ({ type: "ADD_X_MOVE", payload: index });

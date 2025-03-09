@@ -1,0 +1,1 @@
+export const newGame = () => ({ type: "RESET_GAME" })

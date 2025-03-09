@@ -1,0 +1,1 @@
+export const setIsGameEnded = () => ({ type: "SET_IS_GAME_ENDED", payload: true })  

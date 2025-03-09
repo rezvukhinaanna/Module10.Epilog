@@ -1,0 +1,1 @@
+export const setIsDraw = () => ({ type: "SET_IS_DRAW", payload: true })
